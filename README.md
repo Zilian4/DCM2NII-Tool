@@ -3,6 +3,10 @@
 DCM2NII-Tool converts MRI DICOM sequences into compressed NIfTI files (`.nii.gz`).
 Each MRI sequence is converted and saved as an individual output file.
 
+## Support This Project
+
+If this project is useful for your work, please consider starring the repository to support development and help others discover it.
+
 ## Download
 
 Download the executable from Google Drive:
@@ -46,6 +50,3 @@ This is because the packaged application includes not only Python code, but also
 - This repository does not store the executable directly because of GitHub file size limits.
 - Please download the latest `Dcm2NiiTool.exe` from the Google Drive link above.
 
-## Support This Project
-
-If this project is useful for your work, please consider starring the repository to support development and help others discover it.
