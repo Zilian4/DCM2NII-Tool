@@ -6,14 +6,14 @@ Each MRI sequence is converted and saved as an individual output file.
 ## Support This Project
 
 If this project is useful for your work, please consider starring the repository to support development and help others discover it.
-
+(Welcome to comment if you find any bugs!)
 ## Download
 
 Download the executable from Google Drive:
 
 [Dcm2NiiTool.exe](https://drive.google.com/drive/folders/16EQSg1yMdkdAERvF5ZzeAB1C7Oy_eNcD?usp=share_link)
 
-## UI Preview
+## UI Preview(I know this UI is ugly)
 
 ![DCM2NII-Tool UI](ui.png)
 
